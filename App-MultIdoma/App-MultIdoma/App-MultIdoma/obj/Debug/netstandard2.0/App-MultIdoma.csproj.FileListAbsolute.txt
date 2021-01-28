@@ -1,0 +1,10 @@
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.csprojAssemblyReference.cache
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.Lang.AppLang.resources
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.Lang.AppLang.pt-PT.resources
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.Lang.AppLang.pt.resources
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.csproj.GenerateResource.cache
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.AssemblyInfoInputs.cache
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.AssemblyInfo.cs
+D:\Programing\Xamarin Forms Avançado\App-MultIdoma\App-MultIdoma\App-MultIdoma\obj\Debug\netstandard2.0\App-MultIdoma.csproj.CoreCompileInputs.cache

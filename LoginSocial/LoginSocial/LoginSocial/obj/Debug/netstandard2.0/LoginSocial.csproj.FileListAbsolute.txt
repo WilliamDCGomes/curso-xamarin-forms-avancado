@@ -1,0 +1,16 @@
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\bin\Debug\netstandard2.0\LoginSocial.deps.json
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\bin\Debug\netstandard2.0\LoginSocial.dll
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\bin\Debug\netstandard2.0\ref\LoginSocial.dll
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\bin\Debug\netstandard2.0\LoginSocial.pdb
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginSocial.csprojAssemblyReference.cache
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\InicialPage.xaml.g.cs
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginFacebookPage.xaml.g.cs
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginSocial.AssemblyInfoInputs.cache
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginSocial.AssemblyInfo.cs
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginSocial.csproj.CoreCompileInputs.cache
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginSocial.dll
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\ref\LoginSocial.dll
+D:\Programing\Xamarin Forms Avançado\LoginSocial\LoginSocial\LoginSocial\obj\Debug\netstandard2.0\LoginSocial.pdb

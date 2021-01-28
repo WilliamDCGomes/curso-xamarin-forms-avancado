@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKQoCO+ToXV2uqE/MZvoje9nS+dlS894pyEGLniShW/9e9mEBVvojWqgUfTTQNsIJbQnnCPhVUINAPF2WDQT5A==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\Xamarin Forms Avançado\\App-MultIdoma\\App-MultIdoma\\App-MultIdoma.iOS\\App-MultIdoma.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
